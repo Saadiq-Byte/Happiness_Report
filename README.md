@@ -1,4 +1,4 @@
-# Word-Happiness Report 2021.
+# World-Happiness Report 2021.
 
 
 This report presents the results of a data analysis on the 2021 World Happiness Report.
