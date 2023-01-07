@@ -68,4 +68,4 @@ much of the world's data isn't clean. Cleaning the dataset prevented me from mak
 
 ## References
 
-I had to reference Youtube, Stackoverflow for some help whenever I was stuck. For the wordcloud reference Datacamp
+I had to reference Youtube, Stackoverflow for some help whenever I was stuck. For the wordcloud i reference Datacamp
