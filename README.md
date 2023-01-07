@@ -47,7 +47,7 @@ The Analysis was then taken a step further to discover some insights.
 
 In this section, using the cleaned datasets, I was able to analyze and vizualize insights below.
 
-### Insights:
+## Insights:
 
 <ol>
 <li>What regional has the highest Happiness score Vs GDP</li>
@@ -61,11 +61,11 @@ In this section, using the cleaned datasets, I was able to analyze and vizualize
 <li>Happiness Score Vs Coppuption</li>
 </ol>
 
-# Conclustion
+## Conclustion
 
 Happiness report project was fun. Data Cleaning and filtering is a skill that is needed since so 
 much of the world's data isn't clean. Cleaning the dataset prevented me from making mistakes and missing out on important insights.
 
-# References
+## References
 
 I had to reference Youtube, Stackoverflow for some help whenever I was stuck. For the wordcloud Datacamp
