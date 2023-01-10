@@ -1,6 +1,12 @@
-# World-Happiness Report 2021.
-
-![1](https://user-images.githubusercontent.com/85496076/211143909-2e120bf8-598b-4115-a7a2-5800cac04397.jpeg)
+<p align="center">
+  
+  <img src="https://user-images.githubusercontent.com/85496076/211143909-2e120bf8-598b-4115-a7a2-5800cac04397.jpeg"/> 
+</p>
+<br>
+<p align="center">
+  <bold> World-Happiness Report 2021.</bold>
+</p>
+<br>
 
 
 This report presents the results of a data analysis on the 2021 World Happiness Report.
@@ -72,7 +78,7 @@ much of the world's data isn't clean. Cleaning the dataset prevented me from mak
 
 I had to reference Youtube, Stackoverflow for some help whenever I was stuck. For the wordcloud i reference Datacamp
 
-### NOTE:
+<stong>NOTE:</strong>
 
 I am open for any sugestion or comment please feel free to reach out.
 
