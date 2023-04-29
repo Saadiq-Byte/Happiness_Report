@@ -83,4 +83,4 @@ I had to reference Youtube, Stackoverflow for some help whenever I was stuck. Fo
 I am open for any sugestion or comment please feel free to reach out.
 
 Thank you. 🤝❤ <br>
-Email: sodiq-work@hotmail.com
+Email: badejosodiq@gmail.com
